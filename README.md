@@ -1,23 +1,40 @@
 <img  alt="fanMU" width = "100%"  src="https://i.pinimg.com/originals/80/a2/e3/80a2e39247c826317ff674cae09ee2f2.gif" ismap>
 <h1 align="center">Xin chào 👋, Tôi là Nguyễn Đoàn Đức Phúc</h1>
-<h3 align="center">Tôi đang học PTIT và đang cố gắng trở thành WebApp Developer</h3>
+<h3 align="center">Tôi đang là một WebApp Developer trẻ</h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=phucptit&label=Profile%20views&color=0e75b6&style=flat" alt="phucptit" /> </p> -->
+
+## Kinh nghiệm làm việc
 <img align="right" alt="fanMU" width = "400"  src="https://i.pinimg.com/originals/aa/3b/af/aa3bafef086cb8b7a4c8be43157daf9e.gif" ismap>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phucptit&label=Profile%20views&color=0e75b6&style=flat" alt="phucptit" /> </p>
 
-- 🔭 Tôi hiện đang làm việc tại **ISC - FRT, Hà Nội**
+- **Web Application Developer** tại **GNHTech**  
+  _Tháng 7/2024 - Hiện tại_  
+  Phát triển các ứng dụng web với ReactJS, NextJS, ReactNative và tích hợp API REST, SDK, backend DIRECTUS cho các dự án startup của công ty.
 
-- 💬 Tôi có thể giúp đỡ bạn về **ReactJs, NextJs, simple Java SpringBoot, TS and JS, ...**
+- **Web Developer** tại **FRT - HO - ISC FPT Corporation**  
+  _Tháng 8/2023 - Tháng 5/2024_  
+  _Tham gia vào việc phát triển dự án Giỏ hàng cho trang web FPT Shop. Sử dụng NextJS, Type Script để phát triển các tính năng mới, cải tiến trải nghiệm người dùng._
+  Main tain soure code FPT Shop cũ với công nghệ ReactJS-Redux.
+
+- **Intern - Frontend Developer** tại **Phòng Lập Trình Ecom ICT**  
+  _Tháng 8/2022 - Tháng 8/2023_  
+  _Cắt landing giao diện các trang sự kiện, khuyến mại cho trang web FPTShop với html,pug,css,sass,js,jquery._
+  Thực tập phát triển frontend với ReactJS, tối ưu giao diện người dùng và các chức năng của hệ thống web thương mại điện tử. Học hỏi và tích lũy kinh nghiệm từ các dự án thực tế, hỗ trợ bảo trì và cải thiện hệ thống.
+
+
+- 💬 Chuyên môn về lĩnh vực Frontend **ReactJs, NextJs, TS and JS**
+
+- 🔵 Có kĩ năng trong việc lập trình backend  **NodeJs, JavaSpringboot, SQL**
+
+- 📄 Có khả năng giao tiếp tiếng anh cơ bản 
 
 - 📫 Liên lạc với tôi qua email **phucndah2002@gmail.com**
 
-- 📄 Kinh nghiệm 1 năm thực tập Front End tại Dev Ecom Hà Nội
-
-- ⚡ Tôi có tính cách **vui vẻ, hòa đồng, và có thể nhậu ^^**
+- ⚡ Tôi có tính cách **vui vẻ, hòa đồng, và luôn sẵn sàng học hỏi, chia sẻ cùng mọi người**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/phucnddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phucnddev" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/nddphuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/nddphuc" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/wfiKDghqh2w3" target="blank"><img align="center" src="https://www.svgrepo.com/show/78446/skype.svg" alt="phucnddev" height="30" width="40" /></a>
+<a href="https://fb.com/nddev.phuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/nddphuc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
